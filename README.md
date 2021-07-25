@@ -3,4 +3,4 @@
 
 Criando duarante uma aula.
 
-Essa linha eu adcionei diretamente no site.
+Essa linha eu inclui diretamente no site.
